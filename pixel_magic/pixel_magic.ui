@@ -1,0 +1,29 @@
+<UI version="4.0" >
+ <class>pixel_magicClass</class>
+ <widget class="QMainWindow" name="pixel_magicClass" >
+  <property name="objectName" >
+   <string notr="true">pixel_magicClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>pixel_magic</string>
+  </property>
+  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="pixel_magic.qrc"/>
+ </resources>
+ <connections/>
+</UI>
